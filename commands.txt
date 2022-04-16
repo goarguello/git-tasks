@@ -1,0 +1,5 @@
+git init --> Inicio de git en una carpeta
+git add --> Agregamos archivos a la zona de stanging
+git commit -m '' --> Confirmamos/Commiteamos un cambio
+git status --> Vemos el estado de los archivos en la carpeta
+git log --> Vemos el historial de commits. Agregando --oneline lo vemos resumido, y con --graph vemos de forma grafica.
